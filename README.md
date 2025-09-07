@@ -1,2 +1,3 @@
 # STC12C5A60S2_sensor
-Practical codes for STC12C5A60S2 and various sensors
+STC12C5A60S2单片机的一些例程和传感器的使用。
+内容包含各种基本的传感器使用，软件已经调试完成，上电接线即可正常使用。
